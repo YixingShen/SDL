@@ -1,0 +1,3 @@
+http://www.libsdl.org
+http://gameprogrammer.com/sdl.html
+
